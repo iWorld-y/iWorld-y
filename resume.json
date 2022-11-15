@@ -10,7 +10,8 @@
     },
     "avatar": {
         "hidden": false,
-        "shape": "square"
+        "shape": "square",
+        "src": "https://github.com/iWorld-y/iWorld-y/blob/main/resume_.jpg?raw=true"
     },
     "profile": {
         "name": "姜镗宇",
